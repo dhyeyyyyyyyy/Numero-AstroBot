@@ -1,5 +1,5 @@
 /*CMD
-  command: *
+  command: temp
   help: 
   need_reply: false
   auto_retry_time: 
